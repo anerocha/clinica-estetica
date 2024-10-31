@@ -1,4 +1,4 @@
-# Projeto: Site da Clínica de Estética "Beleza Essencial"
+Site da Clínica de Estética "Beleza Essencial"
 
 ## Visão Geral
 Este projeto consiste em um site responsivo para a clínica de estética **Beleza Essencial**. O objetivo é apresentar os serviços oferecidos, fornecer informações sobre a clínica e permitir que os clientes agendem consultas e entrem em contato de forma fácil e direta.
