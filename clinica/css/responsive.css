@@ -1,0 +1,33 @@
+@media (min-width: 768px) {
+    .sobre-container {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .sobre-container img {
+        width: 40%;
+    }
+
+    .sobre-container p {
+        width: 50%;
+    }
+
+    .servicos-container {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .servico {
+        width: 30%;
+        margin-bottom: 2rem;
+    }
+
+    .localizacao-contato-container {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    #mapa, #contato {
+        width: 45%;
+    }
+}
